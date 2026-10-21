@@ -1,0 +1,6 @@
+{
+  "name": "Nova 3D - Interactive Character & Outfit Studio",
+  "description": "Interactive 3D character studio with real-time procedural animations, modular outfit customization, PBR materials, and free-roam movement controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
